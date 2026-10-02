@@ -27,7 +27,6 @@ ValambyaT3ch is the brand, and Ntsako Ngobeni is the face behind it. This portfo
 
 ## Brand Details
 - Name: ValambyaT3ch
-
 - Founder: Ntsako Ngobeni
 - Email: ValambyaT3ch@gmail.com
 - WhatsApp: +27 67 768 1505
