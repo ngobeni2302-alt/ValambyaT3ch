@@ -34,6 +34,9 @@ ValambyaT3ch is the brand, and Ntsako Ngobeni is the face behind it. This portfo
 - GitHub: https://github.com/ngobeni2302-alt
 - LinkedIn: https://www.linkedin.com/in/ntsako-ngobeni/
 
+## Live Demo
+https://ngobeni2302-alt.github.io/ValambyaT3ch/
+
 ## Local Preview
 Open the site in a browser at:
 
