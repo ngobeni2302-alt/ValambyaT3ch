@@ -94,6 +94,10 @@ p {
   color: var(--muted);
 }
 
+p + p {
+  margin-top: 1rem;
+}
+
 .site-header {
   position: sticky;
   top: 0;
