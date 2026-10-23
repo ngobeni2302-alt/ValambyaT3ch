@@ -37,7 +37,13 @@ ValambyaT3ch is the brand, and Ntsako Ngobeni is the face behind it. This portfo
 https://valambyat3ch.vercel.app/
 
 ## Local Preview
-Open the site in a browser at:
+From the project folder, start a local server:
+
+```bash
+python3 -m http.server 8000 --bind 127.0.0.1
+```
+
+Then open the site in a browser at:
 
 http://localhost:8000
 

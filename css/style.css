@@ -571,8 +571,13 @@ p + p {
 }
 
 .email-icon {
-  background: #edf6e6;
-  color: #111111;
+  background: transparent;
+}
+
+.email-icon img {
+  display: block;
+  width: 48px;
+  height: 48px;
 }
 
 .footer-bottom {
